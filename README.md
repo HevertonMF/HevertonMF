@@ -1,6 +1,10 @@
 # 👋 ¡Hola! Soy Heverton
 
-## 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+## 👨‍💻​ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+
+🚴🏻​*Ciclista*  🏄‍♂️​ *stand up paddle*  🇧🇷*Brasileño* 
+
+
 
 Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)** y utilizando GitHub para aprender, practicar y compartir mis proyectos.
 
