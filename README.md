@@ -2,7 +2,7 @@
 
 ## 👨‍💻​ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-🚴🏻​*Ciclista*  🏄‍♂️​ *stand up paddle*  🇧🇷*Brasileño* 
+🚴🏻​*Ciclista* &ensp; 🏄‍♂️​ *stand up paddle* &ensp; 🇧🇷*Brasileño* &ensp; 🕶️​*Amante de la vida*
 
 
 
