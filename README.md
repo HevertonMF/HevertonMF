@@ -2,7 +2,8 @@
 
 ## 👨‍💻​ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-🚴🏻​*Ciclista* &ensp; 🏄‍♂️​ *stand up paddle* &ensp; 🇧🇷*Brasileño* &ensp; 🕶️​*Amante de la vida*
+## 🚴🏻​*Ciclista* &ensp; 🏄‍♂️​ *stand up paddle* &ensp; 🇧🇷*Brasileño* &ensp; 🕶️​*Amante de la vida*
+---
 
 
 
@@ -46,6 +47,7 @@ Seguir aprendiendo, mejorar mis habilidades de programación y adquirir experien
 
 Puedes contactar conmigo a través de GitHub.
 
+* ✉️ Email (hevertonmf@gmail.com)
 ---
 
 ⭐ Gracias por visitar mi perfil.
