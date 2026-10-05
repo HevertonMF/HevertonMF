@@ -41,6 +41,26 @@ Estoy construyendo mis conocimientos desde cero y trabajando principalmente en p
 | 💻 Desarrollo de aplicaciones | 🗄️ Bases de datos | 🔧 Git y GitHub |
 | 🐧 Linux | 📚 Fundamentos de programación | |
 
+## 💼 Proyectos
+
+### 🧠 Encuéntrame — psicólogos y pacientes
+
+<a href="https://hevertonmf.github.io/encuentrame/"><img src="./assets/encuentrame.png" alt="Captura de Encuéntrame" width="100%"></a>
+
+Aplicación web para ayudar a las personas a encontrar al psicólogo que mejor se adapta a su necesidad.
+
+- 🙋 **Área de pacientes:** registro, búsqueda por nombre y especialidad y envío de solicitudes de atención.
+- 🩺 **Área de psicólogos:** perfil profesional y gestión de las solicitudes recibidas.
+- 📱 Diseño adaptable a móvil y modo claro/oscuro.
+
+<p>
+  <a href="https://hevertonmf.github.io/encuentrame/"><img src="https://img.shields.io/badge/Ver_demo-8E6FAE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver demo"></a>
+  <a href="https://github.com/HevertonMF/encuentrame"><img src="https://img.shields.io/badge/Código-3A2A5C?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
 ## 📂 En este GitHub
 
 Aquí iré publicando:
