@@ -35,8 +35,8 @@ Estoy construyendo mis conocimientos desde cero y trabajando principalmente en p
   </a>
 </p>
 
-| | | |
-|:--|:--|:--|
+<p align="center">| | | |
+<p align="center">|:--|:--|:--|
 <p align="center">| 🐍 Python | 🌐 HTML | 🎨 CSS |
 <p align="center">| 💻 Desarrollo de aplicaciones | 🗄️ Bases de datos | 🔧 Git y GitHub |
 <p align="center">| 🐧 Linux | 📚 Fundamentos de programación | |
