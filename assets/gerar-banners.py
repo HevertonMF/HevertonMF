@@ -13,7 +13,7 @@ GRAD = '''<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
 
 
 def wave(y, amp, opacity, dur, flip=False, h=0):
-    # two periods wide so it can slide seamlessly
+    # dos periodos de ancho para que se desplace sin cortes
     p = W
     d = f"M0,{y} "
     for k in range(4):
@@ -28,12 +28,12 @@ def wave(y, amp, opacity, dur, flip=False, h=0):
             f'<animateTransform attributeName="transform" type="translate" values="0 0;{-p} 0" dur="{dur}s" repeatCount="indefinite"/></path>')
 
 
-# ---------- header ----------
+# ---------- cabecera ----------
 H = 230
 phrases = [
     "Estudiante de DAM",
     "Python · SQL · HTML · CSS",
-    "Ciclista y stand up paddle",
+    "Ciclista y paddle surf",
     "Brasileño en España",
     "Amante de la vida",
 ]
@@ -54,7 +54,7 @@ for i, ph in enumerate(phrases):
 out.append('</defs><g clip-path="url(#r)">')
 out.append(f'<rect width="{W}" height="{H}" fill="url(#g)"/>')
 
-# little floating bubbles
+# burbujas que suben
 for x, r, d, b in [(80, 6, 7, 0), (190, 4, 9, 2), (300, 5, 8, 4), (620, 7, 10, 1), (720, 4, 7, 3), (830, 5, 9, 5), (470, 3, 6, 2.5)]:
     out.append(f'<circle cx="{x}" cy="{H}" r="{r}" fill="#ffffff" fill-opacity="0.25">'
                f'<animate attributeName="cy" values="{H + 10};-10" dur="{d}s" begin="{b}s" repeatCount="indefinite"/></circle>')
@@ -63,13 +63,13 @@ out.append(f'<text x="{W / 2}" y="85" text-anchor="middle" font-family="{FONT}" 
            f'¡Hola! Soy Heverton <tspan>👋<animate attributeName="rotate" '
            f'values="0;18;-8;18;0;0" keyTimes="0;0.1;0.2;0.3;0.4;1" dur="2.5s" repeatCount="indefinite"/></tspan></text>')
 
-# typing phrases (written char by char with discrete steps)
+# frases que se escriben letra a letra
 for i, ph in enumerate(phrases):
     w = len(ph) * CW
     x0 = W / 2 - w / 2
     s, e = i * STEP / DUR, (i + 1) * STEP / DUR
     n = len(ph)
-    # build step-by-step width animation for a real typing feel
+    # animación del ancho paso a paso para simular la escritura
     kts, vals = ["0"], ["0"]
     for k in range(1, n + 1):
         kts.append(f"{(i * STEP + TYPE * k / n) / DUR:.4f}")
@@ -90,7 +90,7 @@ out.append(wave(212, 9, 0.28, 6, flip=True, h=H).replace(f"L{2 * W},0 L0,0", f"L
 out.append('</g></svg>')
 open(os.path.join(DIR, "header.svg"), "w", encoding="utf-8").write("\n".join(out))
 
-# ---------- footer ----------
+# ---------- pie ----------
 H = 120
 out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">',
        f'<defs>{GRAD}<clipPath id="r"><rect width="{W}" height="{H}" rx="18"/></clipPath></defs><g clip-path="url(#r)">',

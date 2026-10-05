@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚴🏻_Ciclista-0ea5e9?style=for-the-badge" alt="Ciclista">
-  <img src="https://img.shields.io/badge/🏄‍♂️_Stand_up_paddle-2563eb?style=for-the-badge" alt="Stand up paddle">
+  <img src="https://img.shields.io/badge/🏄‍♂️_Paddle_surf-2563eb?style=for-the-badge" alt="Paddle surf">
   <img src="https://img.shields.io/badge/🕺_Brasileño-16a34a?style=for-the-badge" alt="Brasileño">
   <img src="https://img.shields.io/badge/🕶️_Amante_de_la_vida-7c3aed?style=for-the-badge" alt="Amante de la vida">
 </p>
@@ -52,7 +52,7 @@ Aquí iré publicando:
 - 🧪 Aplicaciones y pequeños experimentos
 - ❤️ Proyectos personales
 
-Mi objetivo es documentar mi evolución como desarrollador y crear poco a poco un **portfolio de proyectos reales**.
+Mi objetivo es documentar mi evolución como desarrollador y crear poco a poco un **porfolio de proyectos reales**.
 
 ## 📈 Mi objetivo
 
@@ -67,7 +67,7 @@ Seguir aprendiendo, mejorar mis habilidades de programación y adquirir experien
 Puedes contactar conmigo a través de GitHub.
 
 <p align="left">
-  <a href="mailto:hevertonmf@gmail.com"><img src="https://img.shields.io/badge/Email-hevertonmf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:hevertonmf@gmail.com"><img src="https://img.shields.io/badge/Correo-hevertonmf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"></a>
   <a href="https://github.com/HevertonMF"><img src="https://img.shields.io/badge/GitHub-HevertonMF-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
