@@ -43,19 +43,23 @@ Estoy construyendo mis conocimientos desde cero y trabajando principalmente en p
 
 ## 💼 Proyectos
 
-### 🧠 Encuéntrame — psicólogos y pacientes
+<h3 align="center">🧠 Encuéntrame — psicólogos y pacientes</h3>
 
-<a href="https://hevertonmf.github.io/encuentrame/"><img src="./assets/encuentrame.png" alt="Captura de Encuéntrame" width="100%"></a>
+<p align="center">
+  <a href="https://hevertonmf.github.io/encuentrame/"><img src="./assets/encuentrame.png" alt="Captura de Encuéntrame" width="85%"></a>
+</p>
 
-Aplicación web para ayudar a las personas a encontrar al psicólogo que mejor se adapta a su necesidad.
+<p align="center">
+  Aplicación web para ayudar a las personas a encontrar al psicólogo que mejor se adapta a su necesidad.<br><br>
+  🙋 <b>Área de pacientes:</b> registro, búsqueda por nombre y especialidad y envío de solicitudes de atención.<br>
+  🩺 <b>Área de psicólogos:</b> perfil profesional y gestión de las solicitudes recibidas.<br>
+  📱 Diseño adaptable a móvil y modo claro/oscuro.
+</p>
 
-- 🙋 **Área de pacientes:** registro, búsqueda por nombre y especialidad y envío de solicitudes de atención.
-- 🩺 **Área de psicólogos:** perfil profesional y gestión de las solicitudes recibidas.
-- 📱 Diseño adaptable a móvil y modo claro/oscuro.
-
-<p>
+<p align="center">
   <a href="https://hevertonmf.github.io/encuentrame/"><img src="https://img.shields.io/badge/Ver_demo-8E6FAE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver demo"></a>
   <a href="https://github.com/HevertonMF/encuentrame"><img src="https://img.shields.io/badge/Código-3A2A5C?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
+  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
