@@ -64,11 +64,12 @@ Seguir aprendiendo, mejorar mis habilidades de programación y adquirir experien
 
 ## 📫 Contacto
 
-Puedes contactar conmigo a través de GitHub.
+Puedes contactar conmigo a través de GitHub, LinkedIn o correo electrónico.
 
 <p align="left">
   <a href="mailto:hevertonmf@gmail.com"><img src="https://img.shields.io/badge/Correo-hevertonmf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"></a>
   <a href="https://github.com/HevertonMF"><img src="https://img.shields.io/badge/GitHub-HevertonMF-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/heverton-marques-00a569196/"><img src="https://img.shields.io/badge/LinkedIn-Heverton_Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
