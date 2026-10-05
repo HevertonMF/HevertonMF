@@ -37,9 +37,9 @@ Estoy construyendo mis conocimientos desde cero y trabajando principalmente en p
 
 | | | |
 |:--|:--|:--|
-| 🐍 Python | 🌐 HTML | 🎨 CSS |
-| 💻 Desarrollo de aplicaciones | 🗄️ Bases de datos | 🔧 Git y GitHub |
-| 🐧 Linux | 📚 Fundamentos de programación | |
+<p align="center">| 🐍 Python | 🌐 HTML | 🎨 CSS |
+<p align="center">| 💻 Desarrollo de aplicaciones | 🗄️ Bases de datos | 🔧 Git y GitHub |
+<p align="center">| 🐧 Linux | 📚 Fundamentos de programación | |
 
 ## 💼 Proyectos
 
