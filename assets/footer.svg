@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#7c3aed"><animate attributeName="stop-color" values="#7c3aed;#2563eb;#0ea5e9;#7c3aed" dur="10s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#2563eb"><animate attributeName="stop-color" values="#2563eb;#0ea5e9;#7c3aed;#2563eb" dur="10s" repeatCount="indefinite"/></stop>
+  </linearGradient><clipPath id="r"><rect width="900" height="120" rx="18"/></clipPath></defs><g clip-path="url(#r)">
+<rect width="900" height="120" fill="url(#g)"/>
+<path d="M0,22 Q225.0,32 450.0,22 Q675.0,12 900.0,22 Q1125.0,32 1350.0,22 Q1575.0,12 1800.0,22 L1800,0 L0,0 Z" fill="#ffffff" fill-opacity="0.25"><animateTransform attributeName="transform" type="translate" values="0 0;-900 0" dur="8s" repeatCount="indefinite"/></path>
+<path d="M0,14 Q225.0,6 450.0,14 Q675.0,22 900.0,14 Q1125.0,6 1350.0,14 Q1575.0,22 1800.0,14 L1800,0 L0,0 Z" fill="#ffffff" fill-opacity="0.15"><animateTransform attributeName="transform" type="translate" values="0 0;-900 0" dur="11s" repeatCount="indefinite"/></path>
+<text x="450.0" y="78" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Gracias por visitar mi perfil ⭐<animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/></text>
+<text x="450.0" y="102" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e0e7ff">Cada proyecto es una oportunidad para aprender algo nuevo</text>
+</g></svg>
