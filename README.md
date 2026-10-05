@@ -5,7 +5,8 @@
   <img src="./web-crawler.svg" alt="Lo que estudié en DAM 1" width="100%">
 </p>
 
-<p align="center"> ### 🚴🏻​*Ciclista* &ensp; 🏄‍♂️​ *stand up paddle* &ensp; 🇧🇷*Brasileño* &ensp; 🕶️​*Amante de la vida*
+<p align="center"> ### 🚴🏻​*Ciclista* &ensp; 🏄‍♂️​ *stand up paddle* &ensp; 🇧🇷*Brasileño* &ensp; 🕶️​*Amante de la vida* 
+  
 ---
 
 
