@@ -41,7 +41,7 @@ Estoy construyendo mis conocimientos desde cero y trabajando principalmente en p
 |:--:|:--:|:--:|
 | 🐍 Python | 🌐 HTML | 🎨 CSS |
 | 💻 Desarrollo de aplicaciones | 🗄️ Bases de datos | 🔧 Git y GitHub |
-| 🐧 Linux | 📚 Fundamentos de programación | |
+| 🐧 Linux | 📚 Fundamentos de programación | 🕵️‍♀️ Visual Studio Code |
 
 </div>
 
