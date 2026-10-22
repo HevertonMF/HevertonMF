@@ -50,20 +50,26 @@ Estoy construyendo mis conocimientos desde cero y trabajando principalmente en p
 <h3 align="center">🧠 Encuéntrame — psicólogos y pacientes</h3>
 
 <p align="center">
-  <a href="https://hevertonmf.github.io/encuentrame/"><img src="./assets/encuentrame.png" alt="Captura de Encuéntrame" width="85%"></a>
+  <a href="https://hevertonmf.pythonanywhere.com"><img src="./assets/encuentrame.png" alt="Captura de Encuéntrame" width="85%"></a>
 </p>
 
 <p align="center">
   Aplicación web para ayudar a las personas a encontrar al psicólogo que mejor se adapta a su necesidad.<br><br>
   🙋 <b>Área de pacientes:</b> registro, búsqueda por nombre y especialidad y envío de solicitudes de atención.<br>
-  🩺 <b>Área de psicólogos:</b> perfil profesional y gestión de las solicitudes recibidas.<br>
-  📱 Diseño adaptable a móvil y modo claro/oscuro.
+  🩺 <b>Área de psicólogos:</b> perfil con foto y nº de colegiado, y gestión de las solicitudes recibidas.<br>
+  🛡️ <b>Administración:</b> aprobación de perfiles nuevos y gestión de usuarios.<br>
+  🔒 Contraseñas cifradas, protección contra inyección SQL y HTTPS.
 </p>
 
 <p align="center">
-  <a href="https://hevertonmf.github.io/encuentrame/"><img src="https://img.shields.io/badge/Ver_demo-8E6FAE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver demo"></a>
+  <a href="https://hevertonmf.pythonanywhere.com"><img src="https://img.shields.io/badge/Pruébala_online-8E6FAE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pruébala online"></a>
   <a href="https://github.com/HevertonMF/encuentrame"><img src="https://img.shields.io/badge/Código-3A2A5C?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
+  <a href="https://hevertonmf.github.io/encuentrame/"><img src="https://img.shields.io/badge/Prototipo_estático-B69BD6?style=for-the-badge&logo=html5&logoColor=white" alt="Prototipo estático"></a>
   <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
