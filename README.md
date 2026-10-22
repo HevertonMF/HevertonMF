@@ -50,7 +50,7 @@ Estoy construyendo mis conocimientos desde cero y trabajando principalmente en p
 <h3 align="center">🧠 Encuéntrame — psicólogos y pacientes</h3>
 
 <p align="center">
-  <a href="https://hevertonmf.pythonanywhere.com"><img src="./assets/encuentrame.png" alt="Captura de Encuéntrame" width="85%"></a>
+  <a href="https://encuentrame.pythonanywhere.com"><img src="./assets/encuentrame.png" alt="Captura de Encuéntrame" width="85%"></a>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Estoy construyendo mis conocimientos desde cero y trabajando principalmente en p
 </p>
 
 <p align="center">
-  <a href="https://hevertonmf.pythonanywhere.com"><img src="https://img.shields.io/badge/Pruébala_online-8E6FAE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pruébala online"></a>
+  <a href="https://encuentrame.pythonanywhere.com"><img src="https://img.shields.io/badge/Pruébala_online-8E6FAE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pruébala online"></a>
   <a href="https://github.com/HevertonMF/encuentrame"><img src="https://img.shields.io/badge/Código-3A2A5C?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
   <a href="https://hevertonmf.github.io/encuentrame/"><img src="https://img.shields.io/badge/Prototipo_estático-B69BD6?style=for-the-badge&logo=html5&logoColor=white" alt="Prototipo estático"></a>
   <br>
